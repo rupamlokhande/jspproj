@@ -1,0 +1,9 @@
+10.40.17.5 - - [10/Oct/2021:17:56:36 +0000] "GET /rupam/ HTTP/1.1" 200 1378 http-bio-8080-exec-1 661
+10.40.17.5 - - [10/Oct/2021:17:56:38 +0000] "GET /rupam/addbook.jsp HTTP/1.1" 200 2454 http-bio-8080-exec-2 58
+10.40.17.5 - - [10/Oct/2021:17:56:48 +0000] "GET /rupam/display?bcode=a&bprice=b&bname=c&blang=d&bdate=e&authcode=f&authname=g&authlname=h&pcode=i&pfname=j+&plname=k&pcountry=l HTTP/1.1" 200 - http-bio-8080-exec-3 195
+10.40.17.5 - - [10/Oct/2021:18:00:36 +0000] "GET / HTTP/1.1" 404 - http-bio-8080-exec-5 0
+10.40.17.5 - - [10/Oct/2021:18:00:41 +0000] "GET /rupam HTTP/1.1" 302 - http-bio-8080-exec-6 0
+10.40.17.5 - - [10/Oct/2021:18:00:41 +0000] "GET /rupam/ HTTP/1.1" 200 1378 http-bio-8080-exec-7 3
+10.40.17.5 - - [10/Oct/2021:18:00:45 +0000] "GET /rupam/addbook.jsp HTTP/1.1" 200 2454 http-bio-8080-exec-8 1
+10.40.17.5 - - [10/Oct/2021:18:00:53 +0000] "GET /rupam/searchbook.jsp HTTP/1.1" 404 991 http-bio-8080-exec-9 2
+10.40.17.5 - - [10/Oct/2021:18:01:29 +0000] "GET /rupam/removebook.jsp HTTP/1.1" 404 991 http-bio-8080-exec-10 1
